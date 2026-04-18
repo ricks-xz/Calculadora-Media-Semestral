@@ -4,7 +4,11 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         while (true) {
-            System.out.println("\n--- VEJA A SUA MÉDIA ---");
+
+            System.out.println("\n=========================");
+            System.out.println("--- CALCULE A MÉDIA ---");
+            System.out.println("=========================");
+            
             System.out.println("A) Prova semestral é composta  por 50% da média final");
             System.out.println("B) Trabalho de comclusãoo de curso é composto por 30% da média final");
             System.out.println("C) As avaliações intermediárias são compostas por duas avaliações " +
