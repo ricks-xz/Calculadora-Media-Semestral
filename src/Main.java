@@ -6,7 +6,7 @@ public class Main {
         while (true) {
 
             System.out.println("\n=========================");
-            System.out.println("--- CALCULE A MÉDIA ---");
+            System.out.println("--- CALCULE A SUA MÉDIA ---");
             System.out.println("=========================");
             
             System.out.println("A) Prova semestral é composta  por 50% da média final");
